@@ -3,7 +3,7 @@
 This repo is only for a `meta` issue simulation purpose.
 
 ## Steps to run:
-- Run `npm i && npm num build`.
+- Run `npm i && npm nun build`.
 - Add the plugin to a WP env.
 - Go to a post.
 - Click on the smile on the top right.
